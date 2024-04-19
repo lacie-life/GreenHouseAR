@@ -8,6 +8,7 @@
 #include <QSurfaceFormat>
 
 #include "AppEngine.h"
+#include "AppConstant.h"
 
 int main(int argc, char **argv)
 {
